@@ -24,7 +24,7 @@ describe('index.js', function () {
     });
   });
 
-  describe('companyCeo', function () {
+  describe('mostProfitableNeighborhood', function () {
     it('is declared as equal to Susan Smith', function () {
       expect(companyCeo).to.equal('Susan Smith');
     });
